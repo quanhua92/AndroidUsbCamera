@@ -1,2 +1,2 @@
-include ':libuvccamera', ':singlecamerapreview'
+include ':libuvccamera', ':singlecamerapreview', ':dualcamerapreview'
 project(':libuvccamera').projectDir = new File('UVCCamera/libuvccamera')
