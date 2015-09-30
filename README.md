@@ -6,3 +6,4 @@ Use USB Webcam on non-rooted Android devices with UVCCamera library from saki451
 ```
 git clone --recursive https://github.com/quanhua92/AndroidUsbCamera
 ```
+- Add ndk.dir to local.properties
