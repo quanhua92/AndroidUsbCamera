@@ -1,0 +1,3 @@
+[submodule "UVCCamera"]
+	path = UVCCamera
+	url = https://github.com/saki4510t/UVCCamera
